@@ -1,7 +1,7 @@
 {
     "name": "graded-assessment",
     "version": "0.1.0",
-    "homepage": "https://github.com/XuanDaiNZ/react-porfolio.git",
+    "homepage": "https://XuanDaiNZ.github.io/react-porfolio",
     "private": true,
     "dependencies": {
         "@chakra-ui/react": "^2.8.2",
@@ -23,7 +23,6 @@
         "web-vitals": "^2.1.4",
         "yup": "^0.32.11"
     },
-
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
